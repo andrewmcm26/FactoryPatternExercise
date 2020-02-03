@@ -1,0 +1,11 @@
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.deps.json
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.runtimeconfig.json
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.runtimeconfig.dev.json
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.dll
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.pdb
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.csprojAssemblyReference.cache
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.AssemblyInfoInputs.cache
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.AssemblyInfo.cs
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.dll
+/Users/andrewmcmahon/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.pdb
